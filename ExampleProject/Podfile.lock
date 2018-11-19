@@ -1,0 +1,16 @@
+PODS:
+  - SampleFramework (1.0.0)
+
+DEPENDENCIES:
+  - SampleFramework (from `../SampleFramework/`)
+
+EXTERNAL SOURCES:
+  SampleFramework:
+    :path: "../SampleFramework/"
+
+SPEC CHECKSUMS:
+  SampleFramework: 6f0ba0e17ee23ed42bcd806412b5cb16a796a3a8
+
+PODFILE CHECKSUM: 478840b5fcf9e12db338ba3b6e9cdefc01d76402
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,19 @@
+{
+  "name": "SampleFramework",
+  "version": "1.0.0",
+  "summary": "Its a sample framework!",
+  "description": "Sample framework that was created for learning purpose",
+  "homepage": "https://github.com/MaheshMavurapu/SampleFramework.git",
+  "license": "MIT",
+  "authors": {
+    "Mahesh Mavurapu": "mahesh.mavurapu@gmail.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/MaheshMavurapu/SampleFramework.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "SampleFramework/**/*"
+}
